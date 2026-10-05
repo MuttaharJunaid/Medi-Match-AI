@@ -1,0 +1,42 @@
+[
+  {
+    "id": "eval-01",
+    "scenario": "62yo M with metastatic EGFR exon 19 deletion NSCLC progressing on Osimertinib",
+    "clinicalNote": "62yo male with metastatic adenocarcinoma of the lung harboring EGFR exon 19 deletion. Disease progression following 14 months of osimertinib. Repeat biopsy negative for T790M. ECOG PS 1. Normal organ function.",
+    "expectedBiomarkers": ["EGFR", "Exon 19"],
+    "expectedCondition": "Non-Small Cell Lung Cancer",
+    "relevantNctIds": ["NCT05015608"]
+  },
+  {
+    "id": "eval-02",
+    "scenario": "54yo F with metastatic Colorectal Cancer harboring KRAS G12C and MSS",
+    "clinicalNote": "54-year-old female with metastatic colorectal adenocarcinoma status post FOLFOX and FOLFIRI progression. NGS demonstrates KRAS G12C mutation, microsatellite stable (MSS), and BRAF wild-type. ECOG 0. Preserved liver/renal profile.",
+    "expectedBiomarkers": ["KRAS", "G12C"],
+    "expectedCondition": "Colorectal",
+    "relevantNctIds": ["NCT05220306"]
+  },
+  {
+    "id": "eval-03",
+    "scenario": "43yo F with Triple-Negative Breast Cancer and germline BRCA1 mutation after Olaparib",
+    "clinicalNote": "43yo female with recurrent triple-negative breast cancer (ER/PR 0%, HER2 0). Known carrier of germline BRCA1 mutation. Recurrence after neoadjuvant AC-T and 1 year of adjuvant Olaparib. ECOG 1.",
+    "expectedBiomarkers": ["BRCA1", "Triple-Negative"],
+    "expectedCondition": "Breast Cancer",
+    "relevantNctIds": ["NCT05489848"]
+  },
+  {
+    "id": "eval-04",
+    "scenario": "38yo M with Stage IV Cutaneous Melanoma BRAF V600E positive",
+    "clinicalNote": "38-year-old male with Stage IV cutaneous melanoma harboring BRAF V600E mutation. Progressed on nivolumab/ipilimumab and subsequent dabrafenib/trametinib. Asymptomatic pulmonary and adrenal metastases. ECOG 1.",
+    "expectedBiomarkers": ["BRAF", "V600E"],
+    "expectedCondition": "Melanoma",
+    "relevantNctIds": ["NCT04844437"]
+  },
+  {
+    "id": "eval-05",
+    "scenario": "67yo F with HER2-positive metastatic breast cancer after T-DXd",
+    "clinicalNote": "67yo female with metastatic HER2-positive (IHC 3+) invasive ductal carcinoma. Prior therapies include trastuzumab, pertuzumab, and trastuzumab deruxtecan (T-DXd) with recent liver lesion progression. LVEF 55%.",
+    "expectedBiomarkers": ["HER2"],
+    "expectedCondition": "Breast Cancer",
+    "relevantNctIds": ["NCT05648825"]
+  }
+]

@@ -1,0 +1,248 @@
+[
+  {
+    "nctId": "NCT05015608",
+    "briefTitle": "A Study of Novel EGFR TKI and ADC Combination in Advanced Non-Small Cell Lung Cancer",
+    "officialTitle": "A Phase 1/2 Multi-Center Open-Label Study Evaluating the Safety and Efficacy of Novel EGFR-Targeted Tyrosine Kinase Inhibitor in Combination With TROP2 Antibody-Drug Conjugate in Patients With EGFR-Mutant Advanced or Metastatic NSCLC After Progression on Osimertinib",
+    "overallStatus": "RECRUITING",
+    "phase": ["PHASE1", "PHASE2"],
+    "conditions": ["Non-Small Cell Lung Cancer", "Adenocarcinoma of the Lung"],
+    "interventions": ["Drug: BL-B01D1 (EGFRxHER3 Bispecific ADC)", "Drug: Osimertinib"],
+    "leadSponsor": "Memorial Sloan Kettering Cancer Center / Daichi Sankyo",
+    "summary": "This study tests whether combining a bispecific antibody-drug conjugate with targeted therapy can overcome secondary resistance mutations in patients with EGFR-mutant advanced lung adenocarcinoma who have previously progressed on first-line third-generation EGFR inhibitors.",
+    "eligibility": {
+      "inclusionCriteria": [
+        "Histologically or cytologically confirmed locally advanced or metastatic non-small cell lung cancer (Stage IV).",
+        "Documented sensitizing EGFR mutation (Exon 19 deletion or L858R point mutation) by CAP/CLIA-certified genomic assay.",
+        "Radiographically documented disease progression during or after treatment with at least one prior line of EGFR-TKI (including osimertinib, lazertinib, or equivalent).",
+        "Age >= 18 years at the time of signing informed consent.",
+        "ECOG Performance Status of 0 or 1 with an estimated life expectancy of >= 12 weeks.",
+        "At least one measurable lesion according to RECIST v1.1 criteria.",
+        "Adequate organ and bone marrow function: Absolute Neutrophil Count (ANC) >= 1.5 x 10^9/L, Platelets >= 100 x 10^9/L, Hemoglobin >= 9.0 g/dL, Serum Creatinine <= 1.5x upper limit of normal (ULN), Total Bilirubin <= 1.5x ULN."
+      ],
+      "exclusionCriteria": [
+        "Presence of symptomatic or untreated active central nervous system (CNS) metastases or leptomeningeal disease. Patients with treated, asymptomatic brain metastases stable for >= 4 weeks are eligible.",
+        "Prior treatment with a TROP2- or HER3-directed antibody-drug conjugate (ADC).",
+        "History of clinically significant interstitial lung disease (ILD) or radiation pneumonitis requiring systemic corticosteroid therapy.",
+        "Significant cardiovascular impairment: LVEF < 50%, QTcF prolongation > 470 ms, or New York Heart Association (NYHA) Class >= II congestive heart failure.",
+        "Active uncontrolled systemic infection (HIV, Hepatitis B, Hepatitis C requiring antiviral therapy)."
+      ],
+      "minimumAge": "18 Years",
+      "maximumAge": "100 Years",
+      "sex": "ALL"
+    },
+    "locations": [
+      { "facility": "Dana-Farber Cancer Institute", "city": "Boston", "state": "MA", "country": "United States" },
+      { "facility": "Memorial Sloan Kettering Cancer Center", "city": "New York", "state": "NY", "country": "United States" },
+      { "facility": "MD Anderson Cancer Center", "city": "Houston", "state": "TX", "country": "United States" }
+    ]
+  },
+  {
+    "nctId": "NCT05220306",
+    "briefTitle": "Evaluation of KRAS G12C Inhibitor Combined With Cetuximab in Refractory Colorectal Cancer",
+    "officialTitle": "A Phase 2 Multicenter Study of Second-Generation KRAS G12C Covalent Inhibitor (Divarasib) in Combination With Anti-EGFR Monoclonal Antibody (Cetuximab) in Patients With Locally Advanced or Metastatic Colorectal Cancer",
+    "overallStatus": "RECRUITING",
+    "phase": ["PHASE2"],
+    "conditions": ["Colorectal Cancer", "Metastatic Colorectal Adenocarcinoma"],
+    "interventions": ["Drug: Divarasib (GDC-6036)", "Drug: Cetuximab"],
+    "leadSponsor": "Genentech / Roche",
+    "summary": "This clinical trial investigates the clinical benefit and tumor response rate of a potent KRAS G12C selective covalent inhibitor paired with EGFR receptor blockade to shut down vertical pathway reactivation in pre-treated metastatic colorectal cancer.",
+    "eligibility": {
+      "inclusionCriteria": [
+        "Histologically confirmed advanced, unresectable or metastatic colorectal adenocarcinoma.",
+        "Identification of KRAS G12C mutation in tumor tissue or circulating tumor DNA (ctDNA) by validated molecular profiling.",
+        "Prior progression on or intolerance to fluoropyrimidine, oxaliplatin, and irinotecan-based chemotherapy regimens (e.g., FOLFOX, FOLFIRI, or FOLFOXIRI).",
+        "Age >= 18 years.",
+        "ECOG performance status 0 or 1.",
+        "Adequate renal, hepatic, and hematologic reserve (Serum creatinine <= 1.5x ULN, AST/ALT <= 3.0x ULN without liver metastases or <= 5.0x ULN with liver metastases).",
+        "Measurable disease per RECIST v1.1."
+      ],
+      "exclusionCriteria": [
+        "Prior treatment with a KRAS G12C targeted inhibitor (adagrasib, sotorasib, or investigative covalent G12C agents).",
+        "Presence of concurrent BRAF V600E mutation or high microsatellite instability (MSI-H / dMMR) eligible for checkpoint inhibitor monotherapy.",
+        "Active brain metastases or history of carcinomatous meningitis.",
+        "Corrected QT interval (QTcF) > 480 ms or history of ventricular arrhythmias."
+      ],
+      "minimumAge": "18 Years",
+      "maximumAge": "100 Years",
+      "sex": "ALL"
+    },
+    "locations": [
+      { "facility": "MD Anderson Cancer Center", "city": "Houston", "state": "TX", "country": "United States" },
+      { "facility": "City of Hope Comprehensive Cancer Center", "city": "Duarte", "state": "CA", "country": "United States" },
+      { "facility": "Mayo Clinic", "city": "Rochester", "state": "MN", "country": "United States" }
+    ]
+  },
+  {
+    "nctId": "NCT05489848",
+    "briefTitle": "Novel Bispecific Antibody for PARP-Inhibitor Refractory BRCA1/2 Deficient Triple-Negative Breast Cancer",
+    "officialTitle": "A Phase 1/2 Open-Label, Multicenter Dose-Escalation and Expansion Trial of Investigational ATR Kinase Inhibitor in Combination With Immunotherapy in Patients With Deleterious Germline or Somatic BRCA-Mutated Triple-Negative Breast Cancer Refractory to Platinum and PARP Inhibitors",
+    "overallStatus": "RECRUITING",
+    "phase": ["PHASE1", "PHASE2"],
+    "conditions": ["Triple-Negative Breast Cancer", "BRCA-Mutated Breast Cancer"],
+    "interventions": ["Drug: Elimusertib (ATR Inhibitor)", "Drug: Pembrolizumab"],
+    "leadSponsor": "Bayer Healthcare / UCSF Medical Center",
+    "summary": "A clinical study assessing whether synthetic lethality can be restored by targeting the DNA damage response (DDR) via ATR inhibition in patients with BRCA-mutated triple-negative breast cancer who have experienced disease recurrence after platinum therapy or PARP inhibitors.",
+    "eligibility": {
+      "inclusionCriteria": [
+        "Documented metastatic or locally recurrent inoperable triple-negative breast cancer (ER < 1%, PR < 1%, HER2 negative per ASCO/CAP criteria).",
+        "Deleterious germline or somatic BRCA1 or BRCA2 mutation confirmed by sequencing.",
+        "Prior treatment with an anthracycline or taxane, and prior treatment with platinum chemotherapy and/or a PARP inhibitor (e.g., olaparib, talazoparib) with documented disease recurrence.",
+        "Age >= 18 years of age.",
+        "ECOG performance status 0 or 1.",
+        "Resolution of all acute toxic effects of prior chemotherapy to NCI CTCAE Grade <= 1."
+      ],
+      "exclusionCriteria": [
+        "Evidence of symptomatic CNS metastases or spinal cord compression.",
+        "Concurrent treatment with strong CYP3A4 inhibitors or inducers.",
+        "History of myelodysplastic syndrome (MDS) or acute myeloid leukemia (AML).",
+        "Active autoimmune disease requiring high-dose systemic corticosteroids (> 10 mg/day prednisone equivalent)."
+      ],
+      "minimumAge": "18 Years",
+      "maximumAge": "100 Years",
+      "sex": "FEMALE"
+    },
+    "locations": [
+      { "facility": "UCSF Helen Diller Family Comprehensive Cancer Center", "city": "San Francisco", "state": "CA", "country": "United States" },
+      { "facility": "Stanford Cancer Institute", "city": "Palo Alto", "state": "CA", "country": "United States" },
+      { "facility": "Fred Hutchinson Cancer Center", "city": "Seattle", "state": "WA", "country": "United States" }
+    ]
+  },
+  {
+    "nctId": "NCT04844437",
+    "briefTitle": "Tumor-Infiltrating Lymphocyte (TIL) Cell Therapy Combined With BRAF Inhibition in Refractory Melanoma",
+    "officialTitle": "A Phase 2 Study of Autologous Tumor-Infiltrating Lymphocytes (Lifileucel) Following Targeted Therapy and Anti-PD-1 Failure in Advanced BRAF-Mutant Cutaneous Melanoma",
+    "overallStatus": "RECRUITING",
+    "phase": ["PHASE2"],
+    "conditions": ["Cutaneous Melanoma", "Malignant Melanoma Stage IV"],
+    "interventions": ["Biological: Lifileucel (Autologous TIL)", "Drug: Interleukin-2 (Aldesleukin)"],
+    "leadSponsor": "Iovance Biotherapeutics / Moffitt Cancer Center",
+    "summary": "This trial investigates the antitumor activity of adoptive cell transfer using autologous tumor-infiltrating lymphocytes in patients with unresectable Stage IIIc/IV melanoma harboring the BRAF V600 mutation who have progressed through both immune checkpoint inhibitors and BRAF/MEK targeted inhibitors.",
+    "eligibility": {
+      "inclusionCriteria": [
+        "Unresectable Stage IIIc or Stage IV cutaneous melanoma.",
+        "Presence of BRAF V600E or V600K mutation confirmed by molecular testing.",
+        "Prior disease progression on or intolerance to an anti-PD-1/PD-L1 antibody (e.g., nivolumab, pembrolizumab) AND prior progression on BRAF inhibitor +/- MEK inhibitor therapy (e.g., dabrafenib + trametinib).",
+        "At least one resectable lesion (>= 1.5 cm diameter) for generation of TIL product, plus at least one remaining measurable target lesion per RECIST v1.1.",
+        "Age 18 to 70 years.",
+        "ECOG performance status 0 or 1.",
+        "Adequate pulmonary and cardiac status: FEV1 and DLCO >= 60% of predicted, LVEF >= 50% on echocardiogram."
+      ],
+      "exclusionCriteria": [
+        "Active, untreated brain metastases (patients with successfully resected or stereotactic radiosurgery treated brain lesions stable for >= 8 weeks are permitted).",
+        "Severe chronic obstructive pulmonary disease (COPD) or significant cardiac arrhythmia.",
+        "Systemic immunosuppressive therapy within 2 weeks of cell infusion.",
+        "Prior cell therapy (CAR-T or TCR-engineered T cells)."
+      ],
+      "minimumAge": "18 Years",
+      "maximumAge": "70 Years",
+      "sex": "ALL"
+    },
+    "locations": [
+      { "facility": "Moffitt Cancer Center", "city": "Tampa", "state": "FL", "country": "United States" },
+      { "facility": "Columbia University Irving Medical Center", "city": "New York", "state": "NY", "country": "United States" },
+      { "facility": "MD Anderson Cancer Center", "city": "Houston", "state": "TX", "country": "United States" }
+    ]
+  },
+  {
+    "nctId": "NCT05648825",
+    "briefTitle": "Next-Generation HER2-Targeted Bispecific Antibody in HER2-Low and Refractory Solid Tumors",
+    "officialTitle": "A Phase 1/1b Study of Zanidatamab Zovodotin (ZW49) in Patients With Advanced HER2-Expressing or HER2-Amplified Cancers After Progression on Trastuzumab Deruxtecan",
+    "overallStatus": "RECRUITING",
+    "phase": ["PHASE1"],
+    "conditions": ["HER2-Positive Breast Cancer", "HER2-Low Breast Cancer", "Gastric Adenocarcinoma"],
+    "interventions": ["Drug: Zanidatamab Zovodotin (ZW49)"],
+    "leadSponsor": "Zymeworks Inc.",
+    "summary": "Evaluating the safety, tolerability, and pharmacokinetics of a biparatopic antibody-drug conjugate directed against two distinct extracellular domains of the HER2 receptor in pre-treated solid tumors.",
+    "eligibility": {
+      "inclusionCriteria": [
+        "Locally advanced or metastatic HER2-expressing or HER2-amplified solid tumors (IHC 3+, IHC 2+/ISH+, or HER2-low IHC 1+ or 2+/ISH-).",
+        "Prior progression on standard systemic therapies, including prior HER2-directed antibody-drug conjugates (e.g., T-DXd).",
+        "Age >= 18 years.",
+        "ECOG performance status 0 or 1.",
+        "Measurable disease by RECIST v1.1."
+      ],
+      "exclusionCriteria": [
+        "Uncontrolled CNS metastases.",
+        "Prior severe infusion-related reactions to trastuzumab or related monoclonal antibodies.",
+        "LVEF < 50% assessed by ECHO or MUGA scan."
+      ],
+      "minimumAge": "18 Years",
+      "maximumAge": "100 Years",
+      "sex": "ALL"
+    },
+    "locations": [
+      { "facility": "Cedars-Sinai Medical Center", "city": "Los Angeles", "state": "CA", "country": "United States" },
+      { "facility": "Northwestern Memorial Hospital", "city": "Chicago", "state": "IL", "country": "United States" }
+    ]
+  },
+  {
+    "nctId": "NCT05556278",
+    "briefTitle": "Phase 3 Trial of Triple Hormone Receptor Agonist in Uncontrolled Type 2 Diabetes with High Cardiovascular and Renal Risk",
+    "officialTitle": "A Phase 3, Multi-Center, Randomized, Double-Blind, Placebo-Controlled Study Evaluating the Safety and Glycemic Efficacy of Retatrutide (Triple GIP/GLP-1/Glucagon Receptor Agonist) in Adults With Inadequately Controlled Type 2 Diabetes Mellitus and Established Complications",
+    "overallStatus": "RECRUITING",
+    "phase": ["PHASE3"],
+    "conditions": ["Type 2 Diabetes Mellitus", "Diabetic Nephropathy", "Diabetic Kidney Disease"],
+    "interventions": ["Drug: Retatrutide (Triple Hormone Receptor Agonist)", "Drug: Placebo"],
+    "leadSponsor": "Eli Lilly and Company",
+    "summary": "This study evaluates whether a breakthrough triple agonist (GIP, GLP-1, and glucagon receptor agonist) achieves superior glycemic control (HbA1c reduction) and renal preservation in patients with poorly controlled Type 2 Diabetes Mellitus despite multi-drug standard therapy.",
+    "eligibility": {
+      "inclusionCriteria": [
+        "Documented diagnosis of Type 2 Diabetes Mellitus with baseline HbA1c between 7.5% and 10.5% inclusive.",
+        "Inadequate glycemic control despite stable treatment for >= 90 days with metformin and/or SGLT2 inhibitor, with or without basal insulin.",
+        "Documented diabetic complications: Albuminuria (UACR >= 30 mg/g) or estimated GFR (eGFR) between 25 and 75 mL/min/1.73 m².",
+        "Age >= 18 years and <= 75 years at time of screening.",
+        "Body Mass Index (BMI) >= 25.0 kg/m².",
+        "Stable blood pressure (systolic < 160 mmHg, diastolic < 100 mmHg) on standard antihypertensive regimen."
+      ],
+      "exclusionCriteria": [
+        "Diagnosis of Type 1 Diabetes Mellitus or history of diabetic ketoacidosis (DKA).",
+        "End-stage renal disease (ESRD) on maintenance dialysis or eGFR < 20 mL/min/1.73 m².",
+        "Personal or family history of medullary thyroid carcinoma or Multiple Endocrine Neoplasia syndrome type 2 (MEN 2).",
+        "Acute coronary syndrome, stroke, or transient ischemic attack within 6 months prior to screening.",
+        "History of severe acute or chronic pancreatitis."
+      ],
+      "minimumAge": "18 Years",
+      "maximumAge": "75 Years",
+      "sex": "ALL"
+    },
+    "locations": [
+      { "facility": "Joslin Diabetes Center / Harvard Medical School", "city": "Boston", "state": "MA", "country": "United States" },
+      { "facility": "Mayo Clinic Endocrinology Research", "city": "Rochester", "state": "MN", "country": "United States" },
+      { "facility": "Cleveland Clinic Endocrinology & Metabolism Institute", "city": "Cleveland", "state": "OH", "country": "United States" }
+    ]
+  },
+  {
+    "nctId": "NCT05047783",
+    "briefTitle": "Novel Aldosterone Synthase Inhibitor in High-Risk Diabetic Kidney Disease and Resistant Albuminuria",
+    "officialTitle": "A Phase 3 Randomized Double-Blind Placebo-Controlled Study to Evaluate the Efficacy and Safety of Lorundrostat (Aldosterone Synthase Inhibitor) on Kidney Outcomes and Albuminuria in Patients With Type 2 Diabetes and Diabetic Nephropathy",
+    "overallStatus": "RECRUITING",
+    "phase": ["PHASE3"],
+    "conditions": ["Diabetic Nephropathy", "Type 2 Diabetes Mellitus", "Chronic Kidney Disease"],
+    "interventions": ["Drug: Lorundrostat (Aldosterone Synthase Inhibitor)", "Drug: Placebo"],
+    "leadSponsor": "Mineralys Therapeutics / Johns Hopkins Medicine",
+    "summary": "This clinical trial assesses the efficacy of targeted aldosterone synthase inhibition in halting the progression of diabetic kidney disease and reducing persistent proteinuria in patients with Type 2 Diabetes who remain at high risk despite ACEi/ARB and SGLT2 inhibitor therapy.",
+    "eligibility": {
+      "inclusionCriteria": [
+        "Adults aged 18 to 80 years with established Type 2 Diabetes Mellitus.",
+        "Persistent macroalbuminuria defined as urinary albumin-to-creatinine ratio (UACR) >= 300 mg/g (or microalbuminuria >= 100 mg/g).",
+        "Estimated glomerular filtration rate (eGFR) between 25 and 60 mL/min/1.73 m² (CKD Stage 3a or 3b).",
+        "Treated with maximum tolerated dose of an ACE inhibitor or ARB and an SGLT2 inhibitor for at least 8 weeks.",
+        "Serum potassium <= 4.8 mmol/L at time of screening."
+      ],
+      "exclusionCriteria": [
+        "History of adrenal insufficiency or primary hyperaldosteronism.",
+        "eGFR < 20 mL/min/1.73 m² or requirement for dialysis within 3 months.",
+        "Serum potassium > 5.0 mmol/L at screening.",
+        "Uncontrolled hypertension with resting systolic blood pressure >= 180 mmHg or diastolic blood pressure >= 110 mmHg."
+      ],
+      "minimumAge": "18 Years",
+      "maximumAge": "80 Years",
+      "sex": "ALL"
+    },
+    "locations": [
+      { "facility": "Johns Hopkins Hospital Comprehensive Diabetes Center", "city": "Baltimore", "state": "MD", "country": "United States" },
+      { "facility": "University of Texas Southwestern Medical Center", "city": "Dallas", "state": "TX", "country": "United States" },
+      { "facility": "Vanderbilt University Medical Center", "city": "Nashville", "state": "TN", "country": "United States" }
+    ]
+  }
+]
