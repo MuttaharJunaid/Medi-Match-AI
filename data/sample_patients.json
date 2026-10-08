@@ -1,0 +1,54 @@
+[
+  {
+    "id": "patient-egfr-nsclc",
+    "name": "Robert Chen (62M) - Metastatic NSCLC",
+    "condition": "Non-Small Cell Lung Cancer (Adenocarcinoma)",
+    "stage": "Stage IV with bone metastases",
+    "biomarkers": ["EGFR Exon 19 deletion", "PD-L1 45%", "T790M negative"],
+    "priorTherapies": ["Osimertinib (1st line, progressed after 14 months)", "Carboplatin + Pemetrexed"],
+    "performanceStatus": "ECOG 1",
+    "age": 62,
+    "gender": "MALE",
+    "location": "Boston, MA, USA",
+    "clinicalNote": "62-year-old male with metastatic EGFR-mutated (exon 19 deletion) lung adenocarcinoma. Initially diagnosed Stage IV with bilateral pulmonary nodules and T8 osseous metastasis. Received first-line osimertinib for 14 months before radiographic progression in primary left lower lobe lesion and new hepatic lesions. Repeat liquid biopsy confirms persistence of EGFR exon 19 del without T790M or C797S resistance mutations. ECOG performance status 1. Adequate hematologic and renal function: ANC 2.8, Platelets 195k, Creatinine 0.9 mg/dL. Seeking clinical trials for EGFR-TKI resistant advanced NSCLC or novel antibody-drug conjugates (ADCs)."
+  },
+  {
+    "id": "patient-kras-crc",
+    "name": "Elena Rodriguez (54F) - Colorectal Cancer",
+    "condition": "Colorectal Adenocarcinoma",
+    "stage": "Stage IV with liver metastasis",
+    "biomarkers": ["KRAS G12C mutation", "MSS (Microsatellite Stable)", "BRAF V600E negative"],
+    "priorTherapies": ["FOLFOX + Bevacizumab", "FOLFIRI"],
+    "performanceStatus": "ECOG 0",
+    "age": 54,
+    "gender": "FEMALE",
+    "location": "Houston, TX, USA",
+    "clinicalNote": "54-year-old female with recurrent metastatic colorectal cancer status-post sigmoid resection in 2024. Next-generation sequencing reveals KRAS G12C mutation, proficient mismatch repair (MSS/pMMR), and wild-type BRAF/NRAS. Disease progression noted on surveillance CT with 2 enlarging hepatic metastases (largest 3.4 cm in segment VI). Patient previously completed adjuvant FOLFOX followed by second-line FOLFIRI + bevacizumab. ECOG PS is 0. Normal cardiac ejection fraction (LVEF 60%). Looking for targeted KRAS G12C inhibitor trials or novel combination immunotherapies."
+  },
+  {
+    "id": "patient-brca-breast",
+    "name": "Sarah Jenkins (43F) - Triple-Negative Breast Cancer",
+    "condition": "Triple-Negative Breast Cancer (TNBC)",
+    "stage": "Stage IIIc locally advanced",
+    "biomarkers": ["BRCA1 germline mutation (c.68_69delAG)", "ER-negative (<1%)", "PR-negative (<1%)", "HER2-negative (IHC 0)"],
+    "priorTherapies": ["Neoadjuvant Dose-dense AC + Paclitaxel", "Olaparib maintenance"],
+    "performanceStatus": "ECOG 1",
+    "age": 43,
+    "gender": "FEMALE",
+    "location": "San Francisco, CA, USA",
+    "clinicalNote": "43-year-old premenopausal female presenting with recurrent locally advanced triple-negative breast cancer (ER 0%, PR 0%, HER2 0 by IHC). Known carrier of deleterious germline BRCA1 mutation. Residual disease identified after neoadjuvant dose-dense AC followed by paclitaxel and definitive mastectomy. Completed 1 year of adjuvant Olaparib with subsequent biopsy-proven recurrence in left supraclavicular lymph node basin. Patient maintains ECOG performance status of 1. No CNS metastases on brain MRI. Seeking phase 1/2 clinical trials targeting PARP-inhibitor refractory BRCA-deficient malignancies or bispecific T-cell engagers."
+  },
+  {
+    "id": "patient-braf-melanoma",
+    "name": "Marcus Vance (38M) - Cutaneous Melanoma",
+    "condition": "Cutaneous Melanoma",
+    "stage": "Stage IV M1c (Metastatic to lungs & adrenal)",
+    "biomarkers": ["BRAF V600E positive", "LDH elevated (1.4x ULN)"],
+    "priorTherapies": ["Nivolumab + Ipilimumab", "Dabrafenib + Trametinib"],
+    "performanceStatus": "ECOG 1",
+    "age": 38,
+    "gender": "MALE",
+    "location": "New York, NY, USA",
+    "clinicalNote": "38-year-old male with Stage IV cutaneous malignant melanoma harboring BRAF V600E mutation. Prior progression on dual checkpoint blockade (ipilimumab + nivolumab) due to immune-mediated colitis, followed by combination BRAF/MEK inhibition (dabrafenib + trametinib) for 9 months with recent symptomatic visceral progression. LDH currently 320 U/L. Stable asymptomatic small sub-centimeter lung nodules and right adrenal metastasis. Seeking clinical trials testing TIL (Tumor-Infiltrating Lymphocyte) therapy, next-generation MAPK pathway inhibitors, or cancer vaccine combos."
+  }
+]
